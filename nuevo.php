@@ -1,3 +1,7 @@
+<?php
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +11,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Lorem, ipsum dolor.</h1>
+    <h2>Configurado con github</h2>
 </body>
 </html>
